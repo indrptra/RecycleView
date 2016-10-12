@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
     public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
 
         private String[] ds_products;
-        private String[] ds_image;
+        //private String[] ds_image;
 
         public class ViewHolder extends RecyclerView.ViewHolder {
 
